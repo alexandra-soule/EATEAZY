@@ -1,0 +1,32 @@
+.fond{
+  height: 100px;
+  background-color: #B2DB98;
+  background-image: linear-gradient(90deg, #B2DB98, #FF951C);
+}
+
+.aboutus{
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.fond h1{
+  margin-bottom: 80px;
+  margin-top: 30px;}
+
+
+div.polaroid {
+  width: 20%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 40px;
+  transition: width 2s, height 4s;
+}
+
+div.pola {
+  text-align: center;
+}
+
+div.polaroid:hover{
+  width: 200px;
+  height: 200px;}
