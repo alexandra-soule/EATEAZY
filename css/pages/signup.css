@@ -46,6 +46,11 @@
 	padding: 5px 50px;
 }
 
+.btn-orange:hover {
+padding: 10px 80px;
+transition-duration: 1s;
+}
+
 .ctnr {
 	margin-top: 100px;
 }
@@ -53,6 +58,7 @@
 .ctnr h1 {
 	margin-bottom: 0px;
 }
+
 
 .ctnr h2{
 	margin-top: 0px;
