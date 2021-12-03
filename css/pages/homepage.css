@@ -30,3 +30,8 @@
 	color: black;
 	text-decoration: underline;
 }
+
+.btn-orange:hover {
+padding: 10px 80px;
+transition-duration: 1s;
+}
