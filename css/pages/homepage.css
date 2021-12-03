@@ -1,0 +1,34 @@
+
+   
+.first{
+	background-image: url(../../images/photo.jpg); 
+	background-size:  cover; 
+	background-color: rgba(198, 229, 179, 0.7); 
+	background-blend-mode: lighten;
+}
+
+.container {
+	margin-top: 100px;
+}
+
+.btn-orange{
+	background-color: #FF951C;
+	border-radius: 30px;
+	color: black;
+	font-weight: lighter;
+	position: inherit;
+	width: 186px;
+	padding: 5px 50px;
+}
+
+.intro { 
+	margin: 100px; }
+
+.footer{
+	margin-top: 150px;
+}
+
+.btn-aboutus{
+	color: black;
+	text-decoration: underline;
+}
